@@ -1,0 +1,16 @@
+{
+  "name": "nodejs_backend_v3",
+  "version": "1.0.0",
+  "description": "setup and curd operations with mongodb",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.1"
+  }
+}
